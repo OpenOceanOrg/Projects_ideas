@@ -18,14 +18,6 @@ Welcome to the **OpenOceanOrg's Projects and Ideas** repository. This is the cen
   
 - **Stay Open to Feedback**: This is a collaborative space. Be receptive to feedback and suggestions from the community.
 
-## Current Top Ideas 🌟
-
-(This section can be updated regularly to highlight popular or high-priority ideas. Link to the corresponding issue for each idea.)
-
-1. [Idea Name #1](LINK_TO_ISSUE1)
-2. [Idea Name #2](LINK_TO_ISSUE2)
-3. [Idea Name #3](LINK_TO_ISSUE3)
-
 Every idea matters, and every opinion counts. Don't hesitate to drop your thoughts, provide feedback, or ask questions. Let's turn these waves of creativity into a tangible ocean of projects!
 
 
